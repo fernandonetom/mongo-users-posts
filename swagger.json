@@ -11,6 +11,10 @@
     {
       "url": "http://localhost:3000",
       "description": "Development API"
+    },
+    {
+      "url": "https://damp-dawn-83451.herokuapp.com",
+      "description": "Production API"
     }
   ],
   "paths": {
